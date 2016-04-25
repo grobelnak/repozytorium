@@ -12,4 +12,8 @@ z=silnia((n-k))
 newton=int(x/(y*z))
 print("wynik to:")
 print(newton)
+<<<<<<< HEAD
 print("działa fajnie test")
+=======
+print("działa fajnie nawet bardzo")
+>>>>>>> Nowa
