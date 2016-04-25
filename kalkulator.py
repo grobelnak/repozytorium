@@ -10,7 +10,7 @@ x=silnia(n)
 y=silnia(k)
 z=silnia((n-k))
 newton=int(x/(y*z))
-print("wynik to:")
+print("wynik to:   ")
 print(newton)
 <<<<<<< HEAD
 print("działa fajnie test")
